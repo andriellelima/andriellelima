@@ -17,10 +17,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="80px" width="80px" />
 </p>
  
-
-
-
  ![Andrielle's github stats](https://github-readme-stats.vercel.app/api?username=andriellelima&show_icons=true&hide_border=true)&nbsp;&nbsp;
  ![Andrielle's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andriellelima&layout=compact&langs_count=8&hide_border=true)
 <br />
 
+![Snake animation](https://github.com/andriellelima/andriellelima/blob/output/github-contribution-grid-snake.svg)
