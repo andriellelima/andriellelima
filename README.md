@@ -1,7 +1,7 @@
 ## Hi, I am Andrielle Lima! Great to see you here! :panda_face: <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <div align="center">
-<img src="/static/andrielle.png/" height="600px" width="600px"/>
+<img src="/static/andrielle.png/" height="400px" width="400px"/>
 <p>
 I'm a backend developer who currently works with Java,
 I also have a bachelor's degree in Information Systems from Universidade Federeal do Acre - UFAC.
