@@ -3,8 +3,8 @@
 <div align="center">
 <img src="/static/andrielle.png/" height="400px" width="400px"/>
 <p>
-I'm a backend developer who currently works with Java,
-I also have a bachelor's degree in Information Systems from Universidade Federeal do Acre - UFAC.
+I'm a backend developer who currently works with Java, 
+I also have a bachelor's degree in Information Systems from the Federal University of Acre - UFAC.
 </p>
 </div>
 
